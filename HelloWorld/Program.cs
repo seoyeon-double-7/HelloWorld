@@ -12,7 +12,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi World");
+            Console.WriteLine("안녕 세상아");
         }
     }
 }
